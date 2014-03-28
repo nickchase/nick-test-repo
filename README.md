@@ -1,5 +1,5 @@
-Working with the miraweb repository
-===================================
+Working with the miraweb repository -- edited
+=============================================
 
 This document explains the steps necessary for working with the Mirantis web site
 *files* using Git.  Changes that are made through the admin control panel are handled
